@@ -1,0 +1,11 @@
+{
+  "title": "Welcome to Elite Launcher",
+  "content": "Launcher system initialized successfully.",
+  "version": "1.0",
+  "news": [
+    {
+      "title": "Launcher Released",
+      "description": "First public version is now available."
+    }
+  ]
+}
